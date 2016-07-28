@@ -1,0 +1,11 @@
+[Wed Jul 27 11:57:37.220708 2016] [authz_core:debug] [pid 14] mod_authz_core.c(809): [client 10.0.2.2:52838] AH01626: authorization result of Require all granted: granted
+[Wed Jul 27 11:57:37.221504 2016] [authz_core:debug] [pid 14] mod_authz_core.c(809): [client 10.0.2.2:52838] AH01626: authorization result of <RequireAny>: granted
+[Wed Jul 27 11:57:37.221944 2016] [core:info] [pid 14] [client 10.0.2.2:52838] AH00128: File does not exist: /var/www/test
+[Wed Jul 27 11:58:03.692448 2016] [authz_core:debug] [pid 15] mod_authz_core.c(809): [client 10.0.2.2:52845] AH01626: authorization result of Require all granted: granted
+[Wed Jul 27 11:58:03.692644 2016] [authz_core:debug] [pid 15] mod_authz_core.c(809): [client 10.0.2.2:52845] AH01626: authorization result of <RequireAny>: granted
+[Wed Jul 27 11:58:03.693236 2016] [authz_core:debug] [pid 15] mod_authz_core.c(809): [client 10.0.2.2:52845] AH01626: authorization result of Require all granted: granted
+[Wed Jul 27 11:58:03.693357 2016] [authz_core:debug] [pid 15] mod_authz_core.c(809): [client 10.0.2.2:52845] AH01626: authorization result of <RequireAny>: granted
+[Wed Jul 27 15:59:27.246130 2016] [authz_core:debug] [pid 11] mod_authz_core.c(809): [client 10.0.2.2:55857] AH01626: authorization result of Require all granted: granted
+[Wed Jul 27 15:59:27.246901 2016] [authz_core:debug] [pid 11] mod_authz_core.c(809): [client 10.0.2.2:55857] AH01626: authorization result of <RequireAny>: granted
+[Wed Jul 27 15:59:27.249563 2016] [authz_core:debug] [pid 11] mod_authz_core.c(809): [client 10.0.2.2:55857] AH01626: authorization result of Require all granted: granted
+[Wed Jul 27 15:59:27.250136 2016] [authz_core:debug] [pid 11] mod_authz_core.c(809): [client 10.0.2.2:55857] AH01626: authorization result of <RequireAny>: granted

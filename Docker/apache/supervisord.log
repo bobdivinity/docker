@@ -1,0 +1,771 @@
+2016-07-26 14:32:28,869 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:32:28,874 INFO supervisord started with pid 6
+2016-07-26 14:32:29,879 INFO spawned: 'apache2' with pid 9
+2016-07-26 14:32:30,993 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 14:32:31,012 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:32:32,018 INFO spawned: 'apache2' with pid 34
+2016-07-26 14:32:32,044 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 14:32:33,047 INFO spawned: 'apache2' with pid 41
+2016-07-26 14:32:33,057 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 14:32:35,063 INFO spawned: 'apache2' with pid 48
+2016-07-26 14:32:35,087 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 14:32:38,096 INFO spawned: 'apache2' with pid 55
+2016-07-26 14:32:38,122 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 14:32:39,124 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2016-07-26 14:37:09,281 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:37:09,287 INFO supervisord started with pid 6
+2016-07-26 14:37:10,291 INFO spawned: 'apache2' with pid 9
+2016-07-26 14:37:10,311 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:11,445 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:12,449 INFO spawned: 'apache2' with pid 38
+2016-07-26 14:37:12,470 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:12,472 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:13,476 INFO spawned: 'apache2' with pid 45
+2016-07-26 14:37:13,499 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:13,503 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:14,509 INFO spawned: 'apache2' with pid 52
+2016-07-26 14:37:14,531 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:14,534 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:15,539 INFO spawned: 'apache2' with pid 59
+2016-07-26 14:37:15,559 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:15,561 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:16,565 INFO spawned: 'apache2' with pid 66
+2016-07-26 14:37:16,586 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:16,590 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:17,595 INFO spawned: 'apache2' with pid 73
+2016-07-26 14:37:17,616 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:17,621 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:18,625 INFO spawned: 'apache2' with pid 80
+2016-07-26 14:37:18,646 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:18,649 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:19,654 INFO spawned: 'apache2' with pid 87
+2016-07-26 14:37:19,678 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:19,682 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:20,687 INFO spawned: 'apache2' with pid 94
+2016-07-26 14:37:20,709 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:20,712 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:21,717 INFO spawned: 'apache2' with pid 101
+2016-07-26 14:37:21,738 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:21,742 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:22,746 INFO spawned: 'apache2' with pid 108
+2016-07-26 14:37:22,758 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:22,760 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:23,765 INFO spawned: 'apache2' with pid 115
+2016-07-26 14:37:23,786 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:23,790 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:24,795 INFO spawned: 'apache2' with pid 122
+2016-07-26 14:37:24,818 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:24,822 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:25,828 INFO spawned: 'apache2' with pid 129
+2016-07-26 14:37:25,850 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:25,854 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:26,857 INFO spawned: 'apache2' with pid 136
+2016-07-26 14:37:26,872 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:26,874 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:27,880 INFO spawned: 'apache2' with pid 143
+2016-07-26 14:37:27,902 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:27,905 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:28,911 INFO spawned: 'apache2' with pid 150
+2016-07-26 14:37:28,932 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:28,935 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:29,940 INFO spawned: 'apache2' with pid 157
+2016-07-26 14:37:29,967 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:29,972 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:30,977 INFO spawned: 'apache2' with pid 164
+2016-07-26 14:37:30,998 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:31,003 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:32,007 INFO spawned: 'apache2' with pid 171
+2016-07-26 14:37:32,026 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:32,029 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:33,035 INFO spawned: 'apache2' with pid 178
+2016-07-26 14:37:33,057 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:33,062 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:34,066 INFO spawned: 'apache2' with pid 185
+2016-07-26 14:37:34,094 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:34,098 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:35,103 INFO spawned: 'apache2' with pid 192
+2016-07-26 14:37:35,127 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:35,130 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:36,135 INFO spawned: 'apache2' with pid 199
+2016-07-26 14:37:36,157 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:36,160 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:37,166 INFO spawned: 'apache2' with pid 206
+2016-07-26 14:37:37,188 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:37,193 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:38,198 INFO spawned: 'apache2' with pid 213
+2016-07-26 14:37:38,219 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:38,223 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:39,228 INFO spawned: 'apache2' with pid 220
+2016-07-26 14:37:39,250 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:39,253 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:40,257 INFO spawned: 'apache2' with pid 227
+2016-07-26 14:37:40,280 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:40,284 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:41,290 INFO spawned: 'apache2' with pid 234
+2016-07-26 14:37:41,311 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:41,314 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:42,319 INFO spawned: 'apache2' with pid 241
+2016-07-26 14:37:42,342 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:42,343 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:43,349 INFO spawned: 'apache2' with pid 248
+2016-07-26 14:37:43,369 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:43,372 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:44,376 INFO spawned: 'apache2' with pid 255
+2016-07-26 14:37:44,387 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:44,393 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:45,396 INFO spawned: 'apache2' with pid 262
+2016-07-26 14:37:45,428 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:45,432 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:46,437 INFO spawned: 'apache2' with pid 269
+2016-07-26 14:37:46,453 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:46,455 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:47,460 INFO spawned: 'apache2' with pid 276
+2016-07-26 14:37:47,482 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:47,486 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:48,491 INFO spawned: 'apache2' with pid 283
+2016-07-26 14:37:48,513 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:48,516 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:49,521 INFO spawned: 'apache2' with pid 290
+2016-07-26 14:37:49,531 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:49,532 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:50,535 INFO spawned: 'apache2' with pid 297
+2016-07-26 14:37:50,548 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:50,549 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:51,552 INFO spawned: 'apache2' with pid 304
+2016-07-26 14:37:51,562 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:51,563 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:52,567 INFO spawned: 'apache2' with pid 311
+2016-07-26 14:37:52,588 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:52,593 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:53,597 INFO spawned: 'apache2' with pid 318
+2016-07-26 14:37:53,608 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:53,611 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:54,615 INFO spawned: 'apache2' with pid 325
+2016-07-26 14:37:54,637 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:54,641 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:55,645 INFO spawned: 'apache2' with pid 332
+2016-07-26 14:37:55,667 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:55,670 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:56,675 INFO spawned: 'apache2' with pid 339
+2016-07-26 14:37:56,696 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:56,700 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:57,706 INFO spawned: 'apache2' with pid 346
+2016-07-26 14:37:57,727 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:57,730 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:58,734 INFO spawned: 'apache2' with pid 353
+2016-07-26 14:37:58,753 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:58,754 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:37:59,760 INFO spawned: 'apache2' with pid 360
+2016-07-26 14:37:59,782 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:37:59,785 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:00,789 INFO spawned: 'apache2' with pid 367
+2016-07-26 14:38:00,812 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:00,816 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:01,822 INFO spawned: 'apache2' with pid 374
+2016-07-26 14:38:01,841 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:01,843 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:02,848 INFO spawned: 'apache2' with pid 381
+2016-07-26 14:38:02,870 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:02,874 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:03,878 INFO spawned: 'apache2' with pid 388
+2016-07-26 14:38:03,885 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:03,887 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:04,891 INFO spawned: 'apache2' with pid 395
+2016-07-26 14:38:04,911 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:04,915 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:05,920 INFO spawned: 'apache2' with pid 402
+2016-07-26 14:38:05,943 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:05,946 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:06,951 INFO spawned: 'apache2' with pid 409
+2016-07-26 14:38:06,972 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:06,976 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:07,980 INFO spawned: 'apache2' with pid 416
+2016-07-26 14:38:08,002 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:08,005 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:09,010 INFO spawned: 'apache2' with pid 423
+2016-07-26 14:38:09,024 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:09,026 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:10,030 INFO spawned: 'apache2' with pid 430
+2016-07-26 14:38:10,052 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:10,057 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:11,063 INFO spawned: 'apache2' with pid 437
+2016-07-26 14:38:11,081 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:11,082 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:12,090 INFO spawned: 'apache2' with pid 444
+2016-07-26 14:38:12,113 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:12,115 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:13,118 INFO spawned: 'apache2' with pid 451
+2016-07-26 14:38:13,131 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:13,132 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:14,136 INFO spawned: 'apache2' with pid 458
+2016-07-26 14:38:14,158 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:14,161 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:15,168 INFO spawned: 'apache2' with pid 465
+2016-07-26 14:38:15,188 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:15,190 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:16,194 INFO spawned: 'apache2' with pid 472
+2016-07-26 14:38:16,216 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:16,220 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:17,225 INFO spawned: 'apache2' with pid 479
+2016-07-26 14:38:17,236 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:17,238 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:18,242 INFO spawned: 'apache2' with pid 486
+2016-07-26 14:38:18,253 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:18,256 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:19,260 INFO spawned: 'apache2' with pid 493
+2016-07-26 14:38:19,284 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:19,290 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:20,296 INFO spawned: 'apache2' with pid 500
+2016-07-26 14:38:20,335 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:20,338 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:21,341 INFO spawned: 'apache2' with pid 507
+2016-07-26 14:38:21,349 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:21,351 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:22,355 INFO spawned: 'apache2' with pid 514
+2016-07-26 14:38:22,366 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:22,367 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:23,372 INFO spawned: 'apache2' with pid 521
+2016-07-26 14:38:23,414 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:23,415 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:24,419 INFO spawned: 'apache2' with pid 528
+2016-07-26 14:38:24,434 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:24,437 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:25,442 INFO spawned: 'apache2' with pid 535
+2016-07-26 14:38:25,464 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:25,467 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:26,473 INFO spawned: 'apache2' with pid 542
+2016-07-26 14:38:26,495 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:26,498 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:27,502 INFO spawned: 'apache2' with pid 549
+2016-07-26 14:38:27,524 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:27,529 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:28,533 INFO spawned: 'apache2' with pid 556
+2016-07-26 14:38:28,556 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:28,560 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:29,565 INFO spawned: 'apache2' with pid 563
+2016-07-26 14:38:29,586 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:29,590 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:30,595 INFO spawned: 'apache2' with pid 570
+2016-07-26 14:38:30,640 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:30,646 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:31,649 INFO spawned: 'apache2' with pid 577
+2016-07-26 14:38:31,661 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:31,663 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:32,668 INFO spawned: 'apache2' with pid 584
+2016-07-26 14:38:32,686 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:32,689 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:33,694 INFO spawned: 'apache2' with pid 591
+2016-07-26 14:38:33,715 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:33,719 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:34,725 INFO spawned: 'apache2' with pid 598
+2016-07-26 14:38:34,744 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:34,746 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:35,750 INFO spawned: 'apache2' with pid 605
+2016-07-26 14:38:35,772 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:35,776 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:36,783 INFO spawned: 'apache2' with pid 612
+2016-07-26 14:38:36,807 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:36,810 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:37,815 INFO spawned: 'apache2' with pid 619
+2016-07-26 14:38:37,838 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:37,841 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:38,846 INFO spawned: 'apache2' with pid 626
+2016-07-26 14:38:38,864 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:38,867 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:39,872 INFO spawned: 'apache2' with pid 633
+2016-07-26 14:38:39,894 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:39,899 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:40,903 INFO spawned: 'apache2' with pid 640
+2016-07-26 14:38:40,922 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:40,925 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:41,929 INFO spawned: 'apache2' with pid 647
+2016-07-26 14:38:41,952 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:41,956 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:42,961 INFO spawned: 'apache2' with pid 654
+2016-07-26 14:38:42,983 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:42,986 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:43,992 INFO spawned: 'apache2' with pid 661
+2016-07-26 14:38:44,014 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:44,016 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:45,022 INFO spawned: 'apache2' with pid 668
+2016-07-26 14:38:45,043 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:45,047 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:46,054 INFO spawned: 'apache2' with pid 675
+2016-07-26 14:38:46,075 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:46,080 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:47,085 INFO spawned: 'apache2' with pid 682
+2016-07-26 14:38:47,108 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:47,112 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:48,116 INFO spawned: 'apache2' with pid 689
+2016-07-26 14:38:48,138 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:48,142 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:49,147 INFO spawned: 'apache2' with pid 696
+2016-07-26 14:38:49,169 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:49,170 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:50,175 INFO spawned: 'apache2' with pid 703
+2016-07-26 14:38:50,197 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:50,201 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:51,205 INFO spawned: 'apache2' with pid 710
+2016-07-26 14:38:51,228 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:51,233 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:52,238 INFO spawned: 'apache2' with pid 717
+2016-07-26 14:38:52,259 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:52,262 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:53,267 INFO spawned: 'apache2' with pid 724
+2016-07-26 14:38:53,288 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:53,292 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:54,297 INFO spawned: 'apache2' with pid 731
+2016-07-26 14:38:54,319 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:54,323 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:55,328 INFO spawned: 'apache2' with pid 738
+2016-07-26 14:38:55,347 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:55,349 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:56,354 INFO spawned: 'apache2' with pid 745
+2016-07-26 14:38:56,372 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:56,375 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:57,380 INFO spawned: 'apache2' with pid 752
+2016-07-26 14:38:57,404 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:57,408 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:58,413 INFO spawned: 'apache2' with pid 759
+2016-07-26 14:38:58,435 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:58,438 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:38:59,443 INFO spawned: 'apache2' with pid 766
+2016-07-26 14:38:59,465 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:38:59,469 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:00,474 INFO spawned: 'apache2' with pid 773
+2016-07-26 14:39:00,496 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:00,499 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:01,505 INFO spawned: 'apache2' with pid 780
+2016-07-26 14:39:01,528 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:01,530 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:02,535 INFO spawned: 'apache2' with pid 787
+2016-07-26 14:39:02,558 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:02,562 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:03,567 INFO spawned: 'apache2' with pid 794
+2016-07-26 14:39:03,588 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:03,593 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:04,598 INFO spawned: 'apache2' with pid 801
+2016-07-26 14:39:04,620 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:04,623 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:05,629 INFO spawned: 'apache2' with pid 808
+2016-07-26 14:39:05,649 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:05,653 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:06,657 INFO spawned: 'apache2' with pid 815
+2016-07-26 14:39:06,680 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:06,685 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:07,689 INFO spawned: 'apache2' with pid 822
+2016-07-26 14:39:07,714 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:07,717 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:08,722 INFO spawned: 'apache2' with pid 829
+2016-07-26 14:39:08,743 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:08,747 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:09,751 INFO spawned: 'apache2' with pid 836
+2016-07-26 14:39:09,773 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:09,776 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:10,780 INFO spawned: 'apache2' with pid 843
+2016-07-26 14:39:10,786 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:10,788 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:11,792 INFO spawned: 'apache2' with pid 850
+2016-07-26 14:39:11,813 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:11,816 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:12,819 INFO spawned: 'apache2' with pid 857
+2016-07-26 14:39:12,844 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:12,848 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:13,854 INFO spawned: 'apache2' with pid 864
+2016-07-26 14:39:13,876 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:13,879 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:14,885 INFO spawned: 'apache2' with pid 871
+2016-07-26 14:39:14,905 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:14,908 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:15,913 INFO spawned: 'apache2' with pid 878
+2016-07-26 14:39:15,934 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:15,938 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:16,942 INFO spawned: 'apache2' with pid 885
+2016-07-26 14:39:16,963 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:16,967 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:17,972 INFO spawned: 'apache2' with pid 892
+2016-07-26 14:39:17,995 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:17,997 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:19,002 INFO spawned: 'apache2' with pid 899
+2016-07-26 14:39:19,024 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:19,028 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:20,032 INFO spawned: 'apache2' with pid 906
+2016-07-26 14:39:20,042 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:20,045 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:21,049 INFO spawned: 'apache2' with pid 913
+2016-07-26 14:39:21,067 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:21,071 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:22,077 INFO spawned: 'apache2' with pid 920
+2016-07-26 14:39:22,098 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:22,103 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:23,108 INFO spawned: 'apache2' with pid 927
+2016-07-26 14:39:23,130 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:23,134 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:24,138 INFO spawned: 'apache2' with pid 934
+2016-07-26 14:39:24,173 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:24,177 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:25,182 INFO spawned: 'apache2' with pid 941
+2016-07-26 14:39:25,206 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:25,209 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:26,213 INFO spawned: 'apache2' with pid 948
+2016-07-26 14:39:26,223 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:26,224 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:27,227 INFO spawned: 'apache2' with pid 955
+2016-07-26 14:39:27,234 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:27,236 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:28,239 INFO spawned: 'apache2' with pid 962
+2016-07-26 14:39:28,248 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:28,250 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:29,254 INFO spawned: 'apache2' with pid 969
+2016-07-26 14:39:29,273 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:29,274 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:30,278 INFO spawned: 'apache2' with pid 976
+2016-07-26 14:39:30,297 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:30,300 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:31,305 INFO spawned: 'apache2' with pid 983
+2016-07-26 14:39:31,326 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:31,332 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:32,336 INFO spawned: 'apache2' with pid 990
+2016-07-26 14:39:32,344 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:32,346 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:33,350 INFO spawned: 'apache2' with pid 997
+2016-07-26 14:39:33,374 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:33,378 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:34,383 INFO spawned: 'apache2' with pid 1004
+2016-07-26 14:39:34,404 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:34,408 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:35,412 INFO spawned: 'apache2' with pid 1011
+2016-07-26 14:39:35,433 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:35,437 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:36,441 INFO spawned: 'apache2' with pid 1018
+2016-07-26 14:39:36,450 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:36,451 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:37,456 INFO spawned: 'apache2' with pid 1025
+2016-07-26 14:39:37,465 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:37,467 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:38,472 INFO spawned: 'apache2' with pid 1032
+2016-07-26 14:39:38,494 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:38,496 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:39,501 INFO spawned: 'apache2' with pid 1039
+2016-07-26 14:39:39,511 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:39,513 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:40,517 INFO spawned: 'apache2' with pid 1046
+2016-07-26 14:39:40,525 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:40,526 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:41,530 INFO spawned: 'apache2' with pid 1053
+2016-07-26 14:39:41,538 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:41,539 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:42,543 INFO spawned: 'apache2' with pid 1060
+2016-07-26 14:39:42,562 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:42,564 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:43,571 INFO spawned: 'apache2' with pid 1067
+2016-07-26 14:39:43,590 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:43,593 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:44,598 INFO spawned: 'apache2' with pid 1074
+2016-07-26 14:39:44,619 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:44,623 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:45,628 INFO spawned: 'apache2' with pid 1081
+2016-07-26 14:39:45,648 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:45,650 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:46,654 INFO spawned: 'apache2' with pid 1088
+2016-07-26 14:39:46,666 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:46,668 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:47,673 INFO spawned: 'apache2' with pid 1095
+2016-07-26 14:39:47,694 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:47,696 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:48,699 INFO spawned: 'apache2' with pid 1102
+2016-07-26 14:39:48,706 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:48,707 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:49,712 INFO spawned: 'apache2' with pid 1109
+2016-07-26 14:39:49,722 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:49,724 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:50,729 INFO spawned: 'apache2' with pid 1116
+2016-07-26 14:39:50,747 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:50,749 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:51,752 INFO spawned: 'apache2' with pid 1123
+2016-07-26 14:39:51,760 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:51,762 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:52,764 INFO spawned: 'apache2' with pid 1130
+2016-07-26 14:39:52,771 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:52,772 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:53,776 INFO spawned: 'apache2' with pid 1137
+2016-07-26 14:39:53,801 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:53,805 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:54,810 INFO spawned: 'apache2' with pid 1144
+2016-07-26 14:39:54,831 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:54,835 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:55,841 INFO spawned: 'apache2' with pid 1151
+2016-07-26 14:39:55,865 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:55,868 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:56,872 INFO spawned: 'apache2' with pid 1158
+2016-07-26 14:39:56,892 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:56,896 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:57,904 INFO spawned: 'apache2' with pid 1165
+2016-07-26 14:39:57,925 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:57,927 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:58,932 INFO spawned: 'apache2' with pid 1172
+2016-07-26 14:39:58,955 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:58,958 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:39:59,963 INFO spawned: 'apache2' with pid 1179
+2016-07-26 14:39:59,986 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:39:59,989 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:00,993 INFO spawned: 'apache2' with pid 1186
+2016-07-26 14:40:01,015 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:01,020 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:02,024 INFO spawned: 'apache2' with pid 1193
+2016-07-26 14:40:02,045 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:02,049 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:03,054 INFO spawned: 'apache2' with pid 1200
+2016-07-26 14:40:03,075 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:03,078 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:04,082 INFO spawned: 'apache2' with pid 1207
+2016-07-26 14:40:04,105 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:04,108 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:05,114 INFO spawned: 'apache2' with pid 1214
+2016-07-26 14:40:05,136 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:05,140 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:06,145 INFO spawned: 'apache2' with pid 1221
+2016-07-26 14:40:06,165 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:06,167 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:07,172 INFO spawned: 'apache2' with pid 1228
+2016-07-26 14:40:07,194 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:07,198 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:08,204 INFO spawned: 'apache2' with pid 1235
+2016-07-26 14:40:08,225 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:08,229 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:09,234 INFO spawned: 'apache2' with pid 1242
+2016-07-26 14:40:09,255 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:09,258 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:10,262 INFO spawned: 'apache2' with pid 1249
+2016-07-26 14:40:10,284 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:10,287 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:11,294 INFO spawned: 'apache2' with pid 1256
+2016-07-26 14:40:11,319 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:11,323 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:12,329 INFO spawned: 'apache2' with pid 1263
+2016-07-26 14:40:12,347 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:12,349 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:13,354 INFO spawned: 'apache2' with pid 1270
+2016-07-26 14:40:13,375 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:13,380 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:14,384 INFO spawned: 'apache2' with pid 1277
+2016-07-26 14:40:14,407 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:14,412 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:15,417 INFO spawned: 'apache2' with pid 1284
+2016-07-26 14:40:15,438 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:15,442 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:16,448 INFO spawned: 'apache2' with pid 1291
+2016-07-26 14:40:16,469 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:16,473 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:17,478 INFO spawned: 'apache2' with pid 1298
+2016-07-26 14:40:17,498 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:17,502 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:18,505 INFO spawned: 'apache2' with pid 1305
+2016-07-26 14:40:18,518 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:18,519 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:19,525 INFO spawned: 'apache2' with pid 1312
+2016-07-26 14:40:19,546 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:19,548 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:20,553 INFO spawned: 'apache2' with pid 1319
+2016-07-26 14:40:20,574 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:20,578 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:21,582 INFO spawned: 'apache2' with pid 1326
+2016-07-26 14:40:21,604 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:21,608 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:22,611 INFO spawned: 'apache2' with pid 1333
+2016-07-26 14:40:22,617 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:22,619 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:23,623 INFO spawned: 'apache2' with pid 1340
+2016-07-26 14:40:23,644 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:23,648 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:24,654 INFO spawned: 'apache2' with pid 1347
+2016-07-26 14:40:24,674 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:24,676 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:25,682 INFO spawned: 'apache2' with pid 1354
+2016-07-26 14:40:25,703 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:25,708 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:26,713 INFO spawned: 'apache2' with pid 1361
+2016-07-26 14:40:26,726 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:26,727 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:27,733 INFO spawned: 'apache2' with pid 1368
+2016-07-26 14:40:27,754 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:27,758 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:28,763 INFO spawned: 'apache2' with pid 1375
+2016-07-26 14:40:28,783 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:28,786 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:29,791 INFO spawned: 'apache2' with pid 1382
+2016-07-26 14:40:29,814 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:29,818 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:30,824 INFO spawned: 'apache2' with pid 1389
+2016-07-26 14:40:30,858 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:30,864 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:31,870 INFO spawned: 'apache2' with pid 1396
+2016-07-26 14:40:31,890 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:31,894 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:32,899 INFO spawned: 'apache2' with pid 1403
+2016-07-26 14:40:32,920 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:32,922 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:33,927 INFO spawned: 'apache2' with pid 1410
+2016-07-26 14:40:33,950 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:33,953 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:34,958 INFO spawned: 'apache2' with pid 1417
+2016-07-26 14:40:34,981 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:34,985 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:35,989 INFO spawned: 'apache2' with pid 1424
+2016-07-26 14:40:36,009 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:36,012 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:37,017 INFO spawned: 'apache2' with pid 1431
+2016-07-26 14:40:37,038 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:37,042 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:38,049 INFO spawned: 'apache2' with pid 1438
+2016-07-26 14:40:38,070 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:38,074 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:39,080 INFO spawned: 'apache2' with pid 1445
+2016-07-26 14:40:39,099 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:39,101 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:40,106 INFO spawned: 'apache2' with pid 1452
+2016-07-26 14:40:40,130 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:40,134 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:41,140 INFO spawned: 'apache2' with pid 1459
+2016-07-26 14:40:41,161 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:41,165 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:42,170 INFO spawned: 'apache2' with pid 1466
+2016-07-26 14:40:42,191 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:42,196 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:43,201 INFO spawned: 'apache2' with pid 1473
+2016-07-26 14:40:43,222 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:43,226 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:44,230 INFO spawned: 'apache2' with pid 1480
+2016-07-26 14:40:44,255 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:44,258 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:45,262 INFO spawned: 'apache2' with pid 1487
+2016-07-26 14:40:45,281 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:45,283 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:46,288 INFO spawned: 'apache2' with pid 1494
+2016-07-26 14:40:46,311 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:46,319 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:47,326 INFO spawned: 'apache2' with pid 1501
+2016-07-26 14:40:47,347 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:47,349 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:48,355 INFO spawned: 'apache2' with pid 1508
+2016-07-26 14:40:48,375 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:48,379 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:49,385 INFO spawned: 'apache2' with pid 1515
+2016-07-26 14:40:49,406 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:40:49,410 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:40:50,199 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:40:50,205 INFO supervisord started with pid 6
+2016-07-26 14:40:51,209 INFO spawned: 'apache2' with pid 9
+2016-07-26 14:40:51,348 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 14:40:52,352 INFO spawned: 'apache2' with pid 34
+2016-07-26 14:40:52,377 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 14:40:54,385 INFO spawned: 'apache2' with pid 41
+2016-07-26 14:40:54,410 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 14:40:57,418 INFO spawned: 'apache2' with pid 48
+2016-07-26 14:40:57,441 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 14:40:58,443 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2016-07-26 14:43:17,435 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:43:17,441 INFO supervisord started with pid 7
+2016-07-26 14:43:18,446 INFO spawned: 'apache2' with pid 10
+2016-07-26 14:43:18,468 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:43:38,732 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 14:44:32,677 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:44:32,682 INFO supervisord started with pid 6
+2016-07-26 14:44:33,686 INFO spawned: 'apache2' with pid 9
+2016-07-26 14:44:33,707 INFO success: apache2 entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2016-07-26 14:44:33,816 INFO exited: apache2 (exit status 0; expected)
+2016-07-26 14:47:20,070 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:47:20,075 INFO supervisord started with pid 6
+2016-07-26 14:47:21,080 INFO spawned: 'apache2' with pid 9
+2016-07-26 14:47:22,148 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 14:54:01,907 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:54:01,912 INFO supervisord started with pid 7
+2016-07-26 14:54:02,914 INFO spawned: 'apache2' with pid 10
+2016-07-26 14:54:03,956 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 14:56:22,092 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:56:22,097 INFO supervisord started with pid 6
+2016-07-26 14:56:23,104 INFO spawned: 'apache2' with pid 9
+2016-07-26 14:56:24,157 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 14:59:39,737 CRIT Supervisor running as root (no user in config file)
+2016-07-26 14:59:39,741 INFO supervisord started with pid 6
+2016-07-26 14:59:40,750 INFO spawned: 'apache2' with pid 9
+2016-07-26 14:59:41,815 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 15:09:34,219 CRIT Supervisor running as root (no user in config file)
+2016-07-26 15:09:34,223 INFO supervisord started with pid 6
+2016-07-26 15:09:35,230 INFO spawned: 'apache2' with pid 9
+2016-07-26 15:09:35,307 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:09:36,318 INFO spawned: 'apache2' with pid 10
+2016-07-26 15:09:36,396 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:09:38,407 INFO spawned: 'apache2' with pid 11
+2016-07-26 15:09:38,489 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:09:41,505 INFO spawned: 'apache2' with pid 12
+2016-07-26 15:09:41,586 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:09:42,588 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2016-07-26 15:10:31,790 CRIT Supervisor running as root (no user in config file)
+2016-07-26 15:10:31,795 INFO supervisord started with pid 6
+2016-07-26 15:10:32,799 INFO spawned: 'apache2' with pid 9
+2016-07-26 15:10:32,849 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:10:33,858 INFO spawned: 'apache2' with pid 10
+2016-07-26 15:10:33,941 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:10:35,948 INFO spawned: 'apache2' with pid 11
+2016-07-26 15:10:36,002 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:10:39,010 INFO spawned: 'apache2' with pid 12
+2016-07-26 15:10:39,061 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:10:40,063 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2016-07-26 15:11:17,491 CRIT Supervisor running as root (no user in config file)
+2016-07-26 15:11:17,495 INFO supervisord started with pid 7
+2016-07-26 15:11:18,504 INFO spawned: 'apache2' with pid 10
+2016-07-26 15:11:18,575 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:11:19,583 INFO spawned: 'apache2' with pid 11
+2016-07-26 15:11:19,664 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:11:21,674 INFO spawned: 'apache2' with pid 16
+2016-07-26 15:11:21,754 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:11:24,762 INFO spawned: 'apache2' with pid 17
+2016-07-26 15:11:24,825 INFO exited: apache2 (exit status 1; not expected)
+2016-07-26 15:11:25,827 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2016-07-26 15:13:28,850 CRIT Supervisor running as root (no user in config file)
+2016-07-26 15:13:28,854 INFO supervisord started with pid 5
+2016-07-26 15:13:29,863 INFO spawned: 'apache2' with pid 8
+2016-07-26 15:13:30,926 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 15:14:45,776 CRIT Supervisor running as root (no user in config file)
+2016-07-26 15:14:45,781 INFO supervisord started with pid 7
+2016-07-26 15:14:46,793 INFO spawned: 'apache2' with pid 10
+2016-07-26 15:14:47,874 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 15:18:23,219 CRIT Supervisor running as root (no user in config file)
+2016-07-26 15:18:23,223 INFO supervisord started with pid 6
+2016-07-26 15:18:24,233 INFO spawned: 'apache2' with pid 9
+2016-07-26 15:18:25,306 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 15:19:59,610 CRIT Supervisor running as root (no user in config file)
+2016-07-26 15:19:59,615 INFO supervisord started with pid 6
+2016-07-26 15:20:00,618 INFO spawned: 'apache2' with pid 9
+2016-07-26 15:20:00,670 INFO exited: apache2 (exit status 0; not expected)
+2016-07-26 15:20:01,676 INFO spawned: 'apache2' with pid 10
+2016-07-26 15:20:02,745 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-26 15:21:23,753 CRIT Supervisor running as root (no user in config file)
+2016-07-26 15:21:23,761 INFO supervisord started with pid 5
+2016-07-26 15:21:24,765 INFO spawned: 'apache2' with pid 8
+2016-07-26 15:21:25,846 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 07:48:30,934 CRIT Supervisor running as root (no user in config file)
+2016-07-27 07:48:30,942 INFO supervisord started with pid 6
+2016-07-27 07:48:31,945 INFO spawned: 'apache2' with pid 9
+2016-07-27 07:48:33,156 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 11:49:01,729 CRIT Supervisor running as root (no user in config file)
+2016-07-27 11:49:01,735 INFO supervisord started with pid 6
+2016-07-27 11:49:02,738 INFO spawned: 'apache2' with pid 9
+2016-07-27 11:49:02,868 INFO exited: apache2 (exit status 0; not expected)
+2016-07-27 11:49:03,872 INFO spawned: 'apache2' with pid 10
+2016-07-27 11:49:04,957 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 11:55:50,208 CRIT Supervisor running as root (no user in config file)
+2016-07-27 11:55:50,213 INFO supervisord started with pid 7
+2016-07-27 11:55:51,217 INFO spawned: 'apache2' with pid 10
+2016-07-27 11:55:51,300 INFO exited: apache2 (exit status 0; not expected)
+2016-07-27 11:55:52,304 INFO spawned: 'apache2' with pid 11
+2016-07-27 11:55:53,379 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 13:42:22,520 CRIT Supervisor running as root (no user in config file)
+2016-07-27 13:42:22,529 INFO supervisord started with pid 6
+2016-07-27 13:42:23,533 INFO spawned: 'apache2' with pid 9
+2016-07-27 13:42:24,609 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 15:58:59,520 CRIT Supervisor running as root (no user in config file)
+2016-07-27 15:58:59,525 INFO supervisord started with pid 6
+2016-07-27 15:59:00,529 INFO spawned: 'apache2' with pid 9
+2016-07-27 15:59:01,656 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

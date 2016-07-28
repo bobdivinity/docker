@@ -1,0 +1,43 @@
+2016-07-27 12:37:29,077 CRIT Supervisor running as root (no user in config file)
+2016-07-27 12:37:29,083 INFO supervisord started with pid 7
+2016-07-27 12:37:30,086 INFO spawned: 'crond' with pid 10
+2016-07-27 12:37:30,101 INFO exited: crond (exit status 0; not expected)
+2016-07-27 12:37:31,104 INFO spawned: 'crond' with pid 12
+2016-07-27 12:37:31,110 INFO exited: crond (exit status 1; not expected)
+2016-07-27 12:37:33,114 INFO spawned: 'crond' with pid 13
+2016-07-27 12:37:33,127 INFO exited: crond (exit status 1; not expected)
+2016-07-27 12:37:36,135 INFO spawned: 'crond' with pid 14
+2016-07-27 12:37:36,150 INFO exited: crond (exit status 1; not expected)
+2016-07-27 12:37:37,152 INFO gave up: crond entered FATAL state, too many start retries too quickly
+2016-07-27 12:58:14,238 CRIT Supervisor running as root (no user in config file)
+2016-07-27 12:58:14,246 INFO supervisord started with pid 5
+2016-07-27 12:58:15,250 INFO spawned: 'cron' with pid 8
+2016-07-27 12:58:16,255 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 13:36:39,650 CRIT Supervisor running as root (no user in config file)
+2016-07-27 13:36:39,656 INFO supervisord started with pid 6
+2016-07-27 13:36:40,660 INFO spawned: 'cron' with pid 9
+2016-07-27 13:36:41,664 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 13:42:12,254 CRIT Supervisor running as root (no user in config file)
+2016-07-27 13:42:12,259 INFO supervisord started with pid 5
+2016-07-27 13:42:13,263 INFO spawned: 'cron' with pid 8
+2016-07-27 13:42:14,266 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 13:53:18,686 CRIT Supervisor running as root (no user in config file)
+2016-07-27 13:53:18,691 INFO supervisord started with pid 7
+2016-07-27 13:53:19,695 INFO spawned: 'cron' with pid 10
+2016-07-27 13:53:20,699 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 14:00:22,774 CRIT Supervisor running as root (no user in config file)
+2016-07-27 14:00:22,779 INFO supervisord started with pid 6
+2016-07-27 14:00:23,782 INFO spawned: 'cron' with pid 9
+2016-07-27 14:00:24,785 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 14:06:10,185 CRIT Supervisor running as root (no user in config file)
+2016-07-27 14:06:10,190 INFO supervisord started with pid 6
+2016-07-27 14:06:11,193 INFO spawned: 'cron' with pid 9
+2016-07-27 14:06:12,197 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 14:10:07,288 CRIT Supervisor running as root (no user in config file)
+2016-07-27 14:10:07,294 INFO supervisord started with pid 5
+2016-07-27 14:10:08,298 INFO spawned: 'cron' with pid 8
+2016-07-27 14:10:09,302 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-07-27 15:58:59,286 CRIT Supervisor running as root (no user in config file)
+2016-07-27 15:58:59,304 INFO supervisord started with pid 6
+2016-07-27 15:59:00,309 INFO spawned: 'cron' with pid 9
+2016-07-27 15:59:01,313 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

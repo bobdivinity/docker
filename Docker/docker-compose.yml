@@ -1,0 +1,22 @@
+bdd:
+    image: postgres9-1:latest
+    ports:
+      - "5433:5432"
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin
+
+docker-apache:
+    image: apache:latest
+    ports:
+      - "1080:80"
+      - "1443:443"
+    volumes:
+      - "./apache/:/partage"
+    working_dir: "/partage"
+
+docker-cron:
+    image: cron:latest
+    volumes:
+      - "./cron/:/partage"
+    working_dir: "/partage"

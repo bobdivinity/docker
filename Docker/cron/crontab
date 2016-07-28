@@ -1,0 +1,1 @@
+* * * * * echo "CRON IS RUNNING !!!" >> /partage/logs/activity.log
